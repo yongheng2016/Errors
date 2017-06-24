@@ -5,3 +5,4 @@
 + [css优先级导致的错误](https://github.com/yongheng2016/errors/issues/4)
 + [a链接中的herf问题](https://github.com/yongheng2016/errors/issues/5)
 + [this](https://github.com/yongheng2016/errors/issues/6)
++ [函数中隐含的变量声明](https://github.com/yongheng2016/errors/issues/10)
