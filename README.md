@@ -6,3 +6,4 @@
 + [a链接中的herf问题](https://github.com/yongheng2016/errors/issues/5)
 + [this](https://github.com/yongheng2016/errors/issues/6)
 + [函数中隐含的变量声明](https://github.com/yongheng2016/errors/issues/10)
++ [当一个内存没有任何人引用的时候，会马上消失](https://github.com/yongheng2016/errors/issues/11)
