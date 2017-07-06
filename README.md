@@ -8,3 +8,4 @@
 + [函数中隐含的变量声明](https://github.com/yongheng2016/errors/issues/10)
 + [当一个内存没有任何人引用的时候，就会死掉](https://github.com/yongheng2016/errors/issues/11)
 + [异步、回掉](https://github.com/yongheng2016/errors/issues/12)
++ [隐式类型转换技巧](https://github.com/yongheng2016/errors/issues/15)
