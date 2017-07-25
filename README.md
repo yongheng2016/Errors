@@ -12,4 +12,4 @@
 + [js中回调函数机制的优劣](https://github.com/yongheng2016/errors/issues/18)
 + [margin、padding：百分比](https://github.com/yongheng2016/errors/issues/19)
 + [原型、原型链、继承、公用属性和方法（.\_\_proto\_\_ | .prototype）](https://github.com/yongheng2016/errors/issues/20)
-+ [](https://github.com/yongheng2016/errors/issues/21)
++ [flex布局默认样式（align-item:stretch）](https://github.com/yongheng2016/errors/issues/21)
