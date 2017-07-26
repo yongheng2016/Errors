@@ -14,3 +14,4 @@
 + [原型、原型链、继承、公用属性和方法（.\_\_proto\_\_ | .prototype）](https://github.com/yongheng2016/errors/issues/20)
 + [flex布局默认样式（align-item:stretch）](https://github.com/yongheng2016/errors/issues/21)
 + [基本字符串和字符串对象的区别(对于 Boolean 和Numbers 同理)](https://github.com/yongheng2016/errors/issues/22)
++ [居中提示](https://github.com/yongheng2016/errors/issues/23)
