@@ -16,4 +16,4 @@
 + [15. 基本字符串和字符串对象的区别(对于 Boolean 和Numbers 同理)](https://github.com/yongheng2016/errors/issues/22)
 + [16. 居中提示](https://github.com/yongheng2016/errors/issues/23)
 + [17. form表单\<input type="button"\>不会发送http请求！](https://github.com/yongheng2016/errors/issues/24)
-+ [xhr.withCredentials与CORS的关系(跨域 | 认证信息[cookie])]()
++ [xhr.withCredentials与CORS的关系(跨域 | 认证信息[cookie])](https://github.com/yongheng2016/errors/issues/25)
