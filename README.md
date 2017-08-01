@@ -17,3 +17,4 @@
 + [16. 居中提示](https://github.com/yongheng2016/errors/issues/23)
 + [17. form表单\<input type="button"\>不会发送http请求！](https://github.com/yongheng2016/errors/issues/24)
 + [18. xhr.withCredentials与CORS的关系（跨域 | 认证信息[cookie]）](https://github.com/yongheng2016/errors/issues/25)
++ [19. https://github.com/yongheng2016/errors/issues/26]()
