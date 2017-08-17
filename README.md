@@ -21,3 +21,4 @@
 + [20. Express[Error: Can't set headers after they are sent.]](https://github.com/yongheng2016/errors/issues/27)
 + [21. 路径理解](https://github.com/yongheng2016/errors/issues/28)
 + [22. module(引用上的差别)](https://github.com/yongheng2016/errors/issues/29)
++ [23. apply技巧](https://github.com/yongheng2016/errors/issues/31)
