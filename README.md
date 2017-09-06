@@ -1,5 +1,5 @@
 # errors
-### + [1. 循环中因变量的放置位置导致的错误](https://github.com/yongheng2016/errors/issues/1)
++ [1. 循环中因变量的放置位置导致的错误](https://github.com/yongheng2016/errors/issues/1)
 + [2. 浏览器渲染机制测试（服务器）](https://github.com/yongheng2016/errors/issues/2)
 + [3. 标签的使用和子选择器的注意事项](https://github.com/yongheng2016/errors/issues/3)
 + [4. css优先级导致的错误](https://github.com/yongheng2016/errors/issues/4)
