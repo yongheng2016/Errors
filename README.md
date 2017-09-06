@@ -1,5 +1,4 @@
-# errors
-[view](https://yongheng2016.github.io/Errors/)
+# [errors](https://yongheng2016.github.io/Errors/)
 ----
 + [1. 循环中因变量的放置位置导致的错误](https://github.com/yongheng2016/errors/issues/1)
 + [2. 浏览器渲染机制测试（服务器）](https://github.com/yongheng2016/errors/issues/2)
@@ -25,8 +24,4 @@
 + [22. module(引用上的差别)](https://github.com/yongheng2016/errors/issues/29)
 + [23. apply技巧](https://github.com/yongheng2016/errors/issues/31)
 + [24. webpack打包vue2.0项目单独构建问题[template]z](https://github.com/yongheng2016/errors/issues/33)
-```js
-function (){
-  console.log('hello world')
-}
-```
+
