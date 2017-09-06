@@ -11,7 +11,7 @@
 + [10. 隐式类型转换技巧](https://github.com/yongheng2016/errors/issues/15)
 + [11. js中回调函数机制的优劣](https://github.com/yongheng2016/errors/issues/18)
 + [12. margin、padding：百分比](https://github.com/yongheng2016/errors/issues/19)
-+ [13. 原型、原型链、继承、公用属性和方法（.\_\_proto\_\_ | .prototype）](https://github.com/yongheng2016/errors/issues/20)
++ [13. 原型、原型链、继承、公用属性和方法（proto  .prototype）](https://github.com/yongheng2016/errors/issues/20)
 + [14. flex布局默认样式（align-item:stretch）](https://github.com/yongheng2016/errors/issues/21)
 + [15. 基本字符串和字符串对象的区别(对于 Boolean 和Numbers 同理)](https://github.com/yongheng2016/errors/issues/22)
 + [16. 居中提示](https://github.com/yongheng2016/errors/issues/23)
