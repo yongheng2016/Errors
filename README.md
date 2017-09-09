@@ -24,4 +24,4 @@
 + [22. module(引用上的差别)](https://github.com/yongheng2016/errors/issues/29)
 + [23. apply技巧](https://github.com/yongheng2016/errors/issues/31)
 + [24. webpack打包vue2.0项目单独构建问题[template]z](https://github.com/yongheng2016/errors/issues/33)
-+ [25 svg图标大小规则及设置 | viewBox]()
++ [25 svg图标大小规则及设置 | viewBox](https://github.com/yongheng2016/Errors/issues/34)
