@@ -1,4 +1,4 @@
-<a href="https://github.com/yongheng2016/myself-resume/"><img src="https://github.com/yongheng2016/myself-resume/blob/master/src/imgs/logo.png" alt=""></a>
+<a href="https://github.com/yongheng2016/myself-resume/"><img src="https://github.com/yongheng2016/myself-resume/blob/master/src/imgs/logo.png" alt="" style="width: 100px"></a>
 # [Collected errors](https://yongheng2016.github.io/Errors/)
 ----
 + [1. 循环中因变量的放置位置导致的错误](https://github.com/yongheng2016/errors/issues/1)
