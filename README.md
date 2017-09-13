@@ -1,3 +1,4 @@
+![](http://pic41.nipic.com/20140518/18521768_133448822000_2.jpg)
 # [Collected errors](https://yongheng2016.github.io/Errors/)
 ----
 + [1. 循环中因变量的放置位置导致的错误](https://github.com/yongheng2016/errors/issues/1)
