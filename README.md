@@ -1,4 +1,4 @@
-<a href="https://yongheng2016.github.io/myself-resume/"><img src="https://github.com/yongheng2016/myself-resume/blob/master/src/imgs/logo.png" alt="" width=100></a>
+
 [ ![](http://imgsrc.baidu.com/image/c0%3Dshijue1%2C0%2C0%2C294%2C40/sign=f98d7c40b919ebc4d4757edaea4fa589/b64543a98226cffc9eabfc97b3014a90f603ea16.jpg)](https://yongheng2016.github.io/myself-resume/)
 # [Collected errors](https://yongheng2016.github.io/Errors/)
 ----
