@@ -22,7 +22,7 @@
 + [18. xhr.withCredentials与CORS的关系:跨域/认证信息[cookie]](https://github.com/yongheng2016/errors/issues/25)
 + [19. document对象查找节点注意事项](https://github.com/yongheng2016/errors/issues/26)
 + [20. Express:`Error: Can't set headers after they are sent`](https://github.com/yongheng2016/errors/issues/27)
-+ [21. 路径理解](https://github.com/yongheng2016/errors/issues/28)
++ [21. path](https://github.com/yongheng2016/errors/issues/28)
 + [22. module(引用上的差别)](https://github.com/yongheng2016/errors/issues/29)
 + [23. apply技巧](https://github.com/yongheng2016/errors/issues/31)
 + [24. webpack打包vue2.0项目单独构建问题[template]z](https://github.com/yongheng2016/errors/issues/33)
